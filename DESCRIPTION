@@ -2,7 +2,7 @@ Package: Lesson6
 Type: Package
 Title: Title
 Version: 0.9
-Authors@R: Alessio Terenzi
+Authors@R: c(person(given="Alessio", family="Terenzi",email= "alessio.terenzi@phd.unipi.it", role=c("aut", "cre")))
 Description: Prova
 Depends: R (>= 3.4.0)
 License: GPL-2
