@@ -1,0 +1,10 @@
+Package: Lesson6
+Type: Package
+Title: Title
+Version: 0.9
+Authors@R:
+Description:
+Depends: R (ver.)
+License:
+Author:
+Maintainer:
