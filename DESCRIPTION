@@ -6,6 +6,5 @@ Authors@R: Alessio Terenzi
 Description: Prova
 Depends: R (>= 3.4.0)
 License: GPL-2
-Author: Alessio Terenzi 
 Maintainer: Alessio Terenzi <alessio.terenzi@phd.unipi.it>
 RoxygenNote: 7.3.3
